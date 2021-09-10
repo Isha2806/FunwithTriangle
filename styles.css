@@ -67,6 +67,11 @@ h1{
       height:80%;
        
      }
+    .img2{
+      width: 16%;
+      height: 50%;
+      
+    }
   
       
     
@@ -74,6 +79,7 @@ h1{
   .footer {
     padding: 60px; /* Some padding */
     text-align: center; /* Center text*/
-    background: #3F0071; /* Grey background */
+    background: #3F0071; 
+   color:white;
     width:100%;
   }
