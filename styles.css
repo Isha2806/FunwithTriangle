@@ -64,17 +64,16 @@ h1{
   }
   .img1{
       width: 90%;
-      height:20%;
-      margin:10% 10%;
+      height:80%;
+       
      }
-  .img2{
-      width:40%;
-      width:40%;
-      margin-bottom: 80%;
-      float:right;
-  }
+  
+      
+    
+  
   .footer {
     padding: 60px; /* Some padding */
     text-align: center; /* Center text*/
     background: #3F0071; /* Grey background */
+    width:100%;
   }
