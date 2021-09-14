@@ -3,7 +3,7 @@ const submit = document.querySelector('.btn');
 
 const output = document.querySelector('#output');
 
-const Right = ["60","90"];
+const Right = ["60","90", "isosceles"];
 function calculateScore(){
     let score = 0;
     let index = 0;
